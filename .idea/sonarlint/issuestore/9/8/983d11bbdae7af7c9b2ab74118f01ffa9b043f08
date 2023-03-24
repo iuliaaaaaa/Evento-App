@@ -1,0 +1,12 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­õˆ
+\
+java:S21535"FRemove the boxing to "Long"; The argument is already of the same type.(‘¤œ­
+k
+java:S1128"IRemove this unused import 'evento.business.RESTforUsers.GetUsersUseCase'.(™‚âÏúÿÿÿÿ8şâ°êØ0
+f
+java:S1128	"DRemove this unused import 'evento.domain.loginActions.LoginRequest'.(Çå¢…ÿÿÿÿÿ8şâ°êØ0
+^
+java:S1128"ARemove this unused import 'evento.persistance.entity.UserEntity'.(ÈéÜç8şâ°êØ0
+]
+java:S1128";Remove this unused import 'lombok.RequiredArgsConstructor'.(ÑØúøÿÿÿÿ8ÿâ°êØ0

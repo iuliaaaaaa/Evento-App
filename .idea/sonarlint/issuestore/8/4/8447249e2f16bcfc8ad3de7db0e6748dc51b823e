@@ -1,0 +1,5 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¶³Ÿıÿÿÿÿ
+i
+java:S3655-"NCall "optUser.isPresent()" or "!optUser.isEmpty()" before accessing the value.(Â“çÿÿÿÿÿ
+]	java:S125"<This block of commented-out lines of code should be removed.(˜Àıÿÿÿÿ8›¯É¿Ù0

@@ -1,0 +1,12 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â¶³Ÿıÿÿÿÿ
+m
+java:S3655""PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ÎËò8ğ¶Òï×0
+Q
+java:S1854";Remove this useless assignment to local variable "results".(ÂŞÓ“
+X
+java:S1854";Remove this useless assignment to local variable "results".(Áşûƒ8Á±Úï×0
+f
+java:S1128"IRemove this unused import 'evento.persistance.converters.EventConverter'.(’ãÙ·8Å±Úï×0
+_
+java:S1128	"BRemove this unused import 'evento.persistance.entity.EventEntity'.(©¥€ÿ8Æ±Úï×0
